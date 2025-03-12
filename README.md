@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@asadbukhari886](https://medium.com/@asadbukhari886)
 
-- 💬 Ask me about **Reactjs**
+- 💬 Ask me about **Reactjs, Python**
 
 - 📫 How to reach me **asadbukhari886@gmail.com**
 
