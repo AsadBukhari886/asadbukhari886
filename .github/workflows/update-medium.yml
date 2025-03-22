@@ -5,6 +5,10 @@ on:
     - cron: "*/10 * * * *"  # Runs every 12 hours
   workflow_dispatch:
 
+permissions:
+  contents: write  # Allows workflow to commit to the README
+
+
 jobs:
   update-readme:
     name: Update Medium Blog Posts
