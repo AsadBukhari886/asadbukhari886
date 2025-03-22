@@ -19,6 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Irony of Quitting as a Software Engineer: A Letter from My Past](https://medium.com/@asadbukhari886/the-irony-of-quitting-as-a-software-engineer-a-letter-from-my-past-a94b3704f420?source=rss-7a3365a324cc------2)
+- [How to Prepare for a Daily Stand-up Meeting &lpar;2024 Update&rpar;](https://medium.com/@asadbukhari886/how-to-prepare-for-a-daily-stand-up-meeting-2024-update-8d9bdf370c26?source=rss-7a3365a324cc------2)
+- [Understanding PostgreSQL: The Power of an Object-Relational Database](https://medium.com/@asadbukhari886/understanding-of-postgresql-the-power-of-an-object-relational-database-b6ae349c3f40?source=rss-7a3365a324cc------2)
+- [Difference between Local and JWT auth guards in Nestjs](https://medium.com/@asadbukhari886/when-to-use-local-and-when-to-use-jwt-auth-guard-in-the-nest-f61b2c3f2d66?source=rss-7a3365a324cc------2)
+- [Exactly What Is SQL in 2023? Definition, Advantages, and All You Want to Know in One Article](https://medium.com/@asadbukhari886/exactly-what-is-sql-in-2023-definition-advantages-and-all-you-want-to-know-in-one-article-5ee624b0ac5e?source=rss-7a3365a324cc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
