@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadbukhari886&label=Profile%20views&color=0e75b6&style=flat" alt="asadbukhari886" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asadbukhari886" alt="asadbukhari886" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asadbukhari886" alt="asadbukhari886" /></a> </p> -->
 
-- 🔭 I’m currently working on **AI**
+- 🔭 Currently working on **AI**
 
-- 🌱 I’m currently teaching **Python**
+- 🌱 Currently teaching **Python**
 
-- 📝 I regularly write articles on [https://medium.com/@asadbukhari886](https://medium.com/@asadbukhari886)
+- 📝 Regularly write articles on [https://medium.com/@asadbukhari886](https://medium.com/@asadbukhari886)
 
-- 💬 Ask me about **Reactjs, Python**
+- 💬 Ask me about **Reactjs, Python, AI**
 
 - 📫 How to reach me **asadbukhari886@gmail.com**
 
