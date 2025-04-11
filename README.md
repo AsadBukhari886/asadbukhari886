@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **asadbukhari886@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [The Irony of Quitting as a Software Engineer: A Letter from My Past](https://medium.com/@asadbukhari886/the-irony-of-quitting-as-a-software-engineer-a-letter-from-my-past-a94b3704f420?source=rss-7a3365a324cc------2)
