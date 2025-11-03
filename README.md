@@ -5,15 +5,9 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asadbukhari886" alt="asadbukhari886" /></a> </p> -->
 
-- 🔭 Currently working on **AI**
-
-- 🌱 Currently teaching **Python**
+- 🔭 Currently working on **Computer Vision**
 
 - 📝 Regularly write articles on [https://medium.com/@asadbukhari886](https://medium.com/@asadbukhari886)
-
-- 💬 Ask me about **Reactjs, Python, AI**
-
-- 📫 How to reach me **asadbukhari886@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
