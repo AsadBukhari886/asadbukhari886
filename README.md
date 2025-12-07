@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ControlNet: The Breakthrough That Finally Gave Generative Models Spatial Control](https://medium.com/@asadbukhari886/controlnet-the-breakthrough-that-finally-gave-generative-models-spatial-control-42cfc133e3a4?source=rss-7a3365a324cc------2)
 - [Elon Musk’s Methods for Reading 100+ Books a Year — and How You Can Apply Them Today](https://medium.com/@asadbukhari886/elon-musks-methods-for-reading-100-books-a-year-and-how-you-can-apply-them-today-e0bbdaa2b47e?source=rss-7a3365a324cc------2)
 - [From Pixels to Latents: A Review of Latent Diffusion Models](https://medium.com/@asadbukhari886/from-pixels-to-latents-a-review-of-latent-diffusion-models-d9fca02dc7d8?source=rss-7a3365a324cc------2)
 - [LoRA: How AI Learned Smarter, Faster, and Greener Without Growing](https://blog.stackademic.com/lora-how-ai-learned-smarter-faster-and-greener-without-growing-8307e2a81f6a?source=rss-7a3365a324cc------2)
 - [The Irony of Quitting as a Software Engineer: A Letter from My Past](https://medium.com/@asadbukhari886/the-irony-of-quitting-as-a-software-engineer-a-letter-from-my-past-a94b3704f420?source=rss-7a3365a324cc------2)
-- [How to Prepare for a Daily Stand-up Meeting &lpar;2024 Update&rpar;](https://medium.com/@asadbukhari886/how-to-prepare-for-a-daily-stand-up-meeting-2024-update-8d9bdf370c26?source=rss-7a3365a324cc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
